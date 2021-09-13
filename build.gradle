@@ -1,6 +1,6 @@
 version = '1.7.10-0.1.0'
-group = "mods.railcraft_ender"
-description = 'Railcraft Ender Signals Addon'
+group = "mods.railcraft_cemblem"
+description = 'Railcraft Custom Emblems Addon'
 
 buildscript {
     repositories {
