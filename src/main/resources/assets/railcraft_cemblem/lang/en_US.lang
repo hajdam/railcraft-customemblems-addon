@@ -1,0 +1,7 @@
+item.railcraft_cemblem.custom_emblem.name=Custom Emblem
+
+tile.railcraft_cemblem.post.emblem_sign.name=Emblem Post Sign
+
+tile.railcraft_cemblem.machine.custom.engraving.bench.name=Custom Engraving Bench
+
+railcraft_cemblem.gui.engrave=Engrave

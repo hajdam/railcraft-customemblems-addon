@@ -1,0 +1,12 @@
+[
+{
+  "modid": "railcraft_custom_emblems",
+  "name": "Railcraft Custom Emblems Addon",
+  "description": "This mod adds custom emblems to the mod Railcraft, by CovertJaguar.",
+  "version": "0.1.0",
+  "mcversion": "1.7.10",
+  "authorList": ["HajdaM"],
+  "logoFile": "assets/railcraft_cemblems/logo.png",
+  "RequiredMods": ["Railcraft"]
+}
+]

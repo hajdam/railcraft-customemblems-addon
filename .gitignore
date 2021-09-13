@@ -1,0 +1,8 @@
+.gradle
+.nb-gradle
+.nb-gradle-properties
+build/
+target/
+/release
+*~
+/private
