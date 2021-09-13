@@ -13,7 +13,7 @@ public class Railcraft_Cemblem {
 
     public static final String MODID = "railcraft_cemblem";
     public static final String MODNAME = "Railcraft Custom Emblems Addon";
-    public static final String MODVER = "0.1.0";
+    public static final String MODVER = "0.1.1";
 
     @Instance("railcraft_cemblem")
     public static Railcraft_Cemblem instance;

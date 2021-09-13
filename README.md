@@ -36,6 +36,10 @@ Directory contains texture images used for custom emblems. You can add your own.
 
 custom.properties is a text file containing list of custom emblems with unique code, name to display and image to use.
 
+When emblem code is starting with "." (dot) it's not available for engraving and can be only created with /give command so it could be for example given to players from admins for events or so... 
+
+Example give: /give player railcraft_cemblem:cemblem.custom_emblem 1 0 {emblem:cust_exit}
+
 Building
 --------
 
